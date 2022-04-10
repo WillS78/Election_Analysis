@@ -26,6 +26,34 @@ Seth and Tom had hired me to support their election campaign data analysis for t
 - Class instructions and pratice codes
 
 ## Summary
+As we review the data from the election we can conclude the following:
+
+- We received a total of 369,711 votes across all counties.
+
+-	The three counties were:
+
+  o	Jefferson
+
+  o	Denver – Largest county with 82.8% for the total votes collected
+
+  o	Arapahoe
+
+  -	The three candidates and their results were:
+
+  o	Charles Casper Stockham
+    
+    	Received 23% of the total votes or 85,213 in total.
+
+  o	Diana DeGette
+
+    	Received 73.8% of the total votes or 272,892 in total.
+
+  o	Raymon Anthony Doane
+
+    	Received 3.1% of the total votes or 11,606 in total.
+
+-	The official winner was Diana DeGette winning 73.8% of the total votes collected
+
 
 ## Challenge Overview
 
