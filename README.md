@@ -12,6 +12,7 @@ Seth and Tom had hired me to support their election campaign data analysis for t
 4. Candidate breakout showing how many votes each candidate received and what their total votes percentage aligned to the total votes captured.
 
 5. The winner based on all votes from the different counties showing the winners name, total votes they received and the percentage of votes to the total votes for all candidates.
+
 ![Election Results](https://user-images.githubusercontent.com/101777677/162597580-e453bddc-4846-4a0c-a7d0-bbe61e9e6425.JPG)
 
 ## Resources
