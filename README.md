@@ -51,4 +51,6 @@ The official winner was Diana DeGette winning 73.8% of the total votes collected
 
 ## Challenge Overview
 
+Dear election commission thanks for allowing us to build a program that collects several data points to help quickly analyze the data and calculate the results. The benefit of using our program is it’s not a one time use. You’ll be able to use it for future elections by making small adjustments to the code. One example of how you can modify the code is to adjust the row it pulls data from based on the specific file you’re utilizing. Another example to modify the code is to add additional list or add/remove what data is being tracked by adjusting your list and what information your trackers will pull. 
+
 ## Challenge Summary
